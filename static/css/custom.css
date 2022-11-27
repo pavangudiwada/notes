@@ -1,0 +1,3 @@
+iframe[id^='youtube-player'] {
+  height: 600px !important;
+}
